@@ -3,9 +3,10 @@
 Let's code, let's enjoy.
 
 <!-- GitHub Activity -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JNBarrachina&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JNBarrachina&layout=compact)
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200">
 
 
 
