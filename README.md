@@ -3,8 +3,10 @@
 Let's code, let's enjoy.
 
 <!-- GitHub Activity -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNBarrachina&layout=compact&theme=dark" alt="Top Langs" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JNBarrachina&layout=compact)
 
 
 
