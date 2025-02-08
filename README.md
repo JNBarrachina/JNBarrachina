@@ -4,6 +4,8 @@ Let's code, let's enjoy.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JNBarrachina&show_icons=true&theme=radical)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&theme=dracula)
+
 <!--
 **JNBarrachina/JNBarrachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
