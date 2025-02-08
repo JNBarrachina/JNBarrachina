@@ -2,7 +2,8 @@
 
 Let's code, let's enjoy.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JNBarrachina&show_icons=true&theme=radical)
+<!-- GitHub Activity -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JNBarrachina&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JNBarrachina&layout=compact)
 
