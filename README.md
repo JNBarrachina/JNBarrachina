@@ -4,7 +4,8 @@ Let's code, let's enjoy.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JNBarrachina&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=JNBarrachina&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JNBarrachina&layout=compact)
+
 
 
 <!--
