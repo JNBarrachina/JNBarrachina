@@ -34,9 +34,9 @@
 
 ## 🚀 Featured Projects / Proyectos Destacados
 
-### 🕒 WorkControl — Gestión de Horas  
-🧩 **Frontend**: [workcontrol-client](https://github.com/JNBarrachina/workcontrol-client)  
-🛠️ **Backend**: [workcontrol-backend](https://github.com/JNBarrachina/workcontrol-backend)
+### 🕒 Workflow — Gestión de Horas (VIC - València Innovation Capital)
+🧩 **Frontend**: [workflow-client](https://github.com/JNBarrachina/workflow-client)  
+🛠️ **Backend**: [workflow-backend](https://github.com/JNBarrachina/workflow-backend)
 
 🇪🇸 Aplicación web para empleados y gestores de proyectos. Permite imputar y revisar horas trabajadas mensualmente, con control por proyecto y subproyecto. Enfocada en la usabilidad y la organización clara de los datos.
 
