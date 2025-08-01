@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí / About me
+## 👨‍💻 About Me / Sobre mí
 
 🇪🇸 Soy desarrollador web full stack con alma de frontend. Me apasiona crear experiencias digitales que combinan diseño, accesibilidad y funcionalidad, siempre con la idea de que lo útil también puede (y debe) ser atractivo. Disfruto enfrentando desafíos reales con soluciones bien pensadas, y busco que cada proyecto tenga sentido y deje huella.
 
@@ -32,12 +32,22 @@
 
 ---
 
+## 🚀 Featured Projects / Proyectos Destacados
+
+### 🕒 WorkControl — Gestión de Horas  
+🧩 **Frontend**: [workcontrol-client](https://github.com/JNBarrachina/workcontrol-client)  
+🛠️ **Backend**: [workcontrol-backend](https://github.com/JNBarrachina/workcontrol-backend)
+
+🇪🇸 Aplicación web para empleados y gestores de proyectos. Permite imputar y revisar horas trabajadas mensualmente, con control por proyecto y subproyecto. Enfocada en la usabilidad y la organización clara de los datos.
+
+🇬🇧 Web app for employees and project managers. Lets users log and review monthly working hours, with per-project and subproject control. Built with a focus on usability and clean data organization.
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JNBarrachina&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNBarrachina&theme=dark" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNBarrachina&layout=compact&theme=dark" alt="Top Langs" />
 </p>
@@ -55,5 +65,6 @@
 <p align="center">
     <i>⭐️ From <a href="https://github.com/JNBarrachina">JNBarrachina</a></i>
 </p>
+
 
 
